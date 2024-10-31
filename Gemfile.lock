@@ -116,7 +116,7 @@ GEM
       responders
       warden (~> 1.2.3)
     docile (1.4.1)
-    doorkeeper (5.7.1)
+    doorkeeper (5.8.0)
       railties (>= 5)
     drb (2.2.1)
     dry-configurable (1.2.0)
